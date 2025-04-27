@@ -1,0 +1,44 @@
+.details{
+  background-color: tomato;
+  padding: 50px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+input,
+button {
+  margin-left: 30%;
+  width: 300px;
+  margin: 10px;
+  height: 20px;
+  
+  
+}
+button {
+  margin-left: 31%;
+  background-color: aquamarine;
+  height: 20px;
+}
+h1 {
+  text-align: center;
+}
+/* .car {
+  border: 2px solid yellowgreen;
+  border-radius: 5px;
+  background-color: crimson;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  padding: 5px;
+} */
+img {
+  width: 300px;
+  height: 300px;
+}
+#destination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+}
